@@ -1,4 +1,4 @@
-name: example-environment
+name: jwilliams9090
 channels:
   - conda-forge
 dependencies:
